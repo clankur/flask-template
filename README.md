@@ -8,9 +8,11 @@ $ git clone https://github.com/slytorch/flask-template myapp
 $ cd myapp
 ```
 ### Installing Prerequisite Packages
-To install all the neccesary node packages, run the following command:
+To install all the neccesary node packages, run the following commands:
 ```
-python install -r requirements.txt
+virtualenv env
+source env/bin/activate
+pip install -r requirements.txt
 ```
 
 ### Starting it up
