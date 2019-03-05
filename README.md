@@ -1,4 +1,4 @@
-# boilerplate node template
+# boilerplate flask template
 A simple boilerplate template with not too many bells and whistles. 
 ## Setting it up
 ### Clone the repo
